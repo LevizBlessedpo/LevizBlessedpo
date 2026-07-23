@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋 Salve, me chamo Levi Santos
 
-<!--
-**LevizBlessedpo/LevizBlessedpo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Eletrônica, futuro desenvolvedor Full-stack, mas mirando numa possível carreira em DevOps! Comecei a estudar programação sozinho, pelo celular, e agora vou pro Galera Tech da Apeti!
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
+- 🔭 Atualmente aprendendo: JavaScript, Termux, Git & GitHub, Node.js e a utilização de bibliotecas e HTML e CSS em futuros códigos 
+- 🌱 Começando no Galera Tech (Apeti) em agosto de 2026
+- 💬 Me chame para trocar ideia sobre programação!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Meus projetos
+- [Desafios de Lógica JavaScript] - [clique aqui](https://github.com/LevizBlessedpo/Desafios-de-logica-Javascript)
+- [Caixa Bancário] - [clique aqui](https://github.com/LevizBlessedpo/Caixa-bancario-)
+- [Validador e formatador de logs] - [clique aqui](https://github.com/LevizBlessedpo/Validador-e-formatador-de-logs)
+- [Interpretador de Arrays binárias] - [clique aqui](https://github.com/LevizBlessedpo/Interpretador-de-arrays-binarios)
+
+## 🔗 Redes
+- [LinkedIn] - [clique aqui](https://www.linkedin.com/in/levi-santos-da-cruz-9a998533a?utm_source=share_via&utm_content=profile&utm_medium=member_android)
