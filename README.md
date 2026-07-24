@@ -1,4 +1,7 @@
-## 👋 Salve, me chamo Levi Santos
+<p align="center">
+  <img src="https://giphy.com/gifs/ps4-sony-ghost-of-tsushima-cO8STdMQG5vfTlQBsV" width="150">
+</p>
+<h1 align="center">👋 Salve, me chamo Levi Santos</h1>
 
 Estudante de Eletrônica, futuro desenvolvedor Full-stack, mas mirando numa possível carreira em DevOps! Comecei a estudar programação sozinho, pelo celular, e agora vou pro Galera Tech da Apeti!
 
