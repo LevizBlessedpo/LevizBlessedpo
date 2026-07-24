@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyd2FoN2NzOXo2ZWZ4c2w2eHN1MmE5Yno2MDF6aDFtaWczaDB1OGZpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cO8STdMQG5vfTlQBsV/giphy.gif" width="900">
 </p>
-<h1 align="center">👋 Salve, me chamo Levi Santos</h1>
+<h1 align="center">🔥 Salve, me chamo Levi Santos!</h1>
 
 Estudante de Eletrônica, futuro desenvolvedor Full-stack, mas mirando numa possível carreira em DevOps! Comecei a estudar programação sozinho, pelo celular, e agora vou pro Galera Tech da Apeti!
 
