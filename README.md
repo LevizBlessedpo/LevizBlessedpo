@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://giphy.com/gifs/ps4-sony-ghost-of-tsushima-cO8STdMQG5vfTlQBsV" width="150">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyd2FoN2NzOXo2ZWZ4c2w2eHN1MmE5Yno2MDF6aDFtaWczaDB1OGZpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cO8STdMQG5vfTlQBsV/giphy.gif" width="900">
 </p>
 <h1 align="center">👋 Salve, me chamo Levi Santos</h1>
 
