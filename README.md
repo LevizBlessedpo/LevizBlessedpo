@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">🔥 Salve, me chamo Levi Santos!</h1>
 
-Estudante de Eletrônica, futuro desenvolvedor Full-stack, mas mirando numa possível carreira em DevOps! Comecei a estudar programação sozinho, pelo celular, e agora vou pro Galera Tech da Apeti!
+Estudante de Eletrônica, futuro desenvolvedor Back-end, mas mirando numa possível carreira em DevOps! Comecei a estudar programação sozinho, pelo celular, e agora vou pro Galera Tech da Apeti!
 
 # 🚀 Sobre mim:
 - 🔭 Atualmente aprendendo: JavaScript | Git & GitHub | Node.js | utilização de bibliotecas e frameworks | HTML5 e CSS3 
