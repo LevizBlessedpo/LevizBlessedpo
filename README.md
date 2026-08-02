@@ -6,8 +6,8 @@
 Estudante de Eletrônica, futuro desenvolvedor Full-stack, mas mirando numa possível carreira em DevOps! Comecei a estudar programação sozinho, pelo celular, e agora vou pro Galera Tech da Apeti!
 
 # 🚀 Sobre mim:
-- 🔭 Atualmente aprendendo: JavaScript, Termux, Git & GitHub, Node.js e a utilização de bibliotecas e HTML e CSS em futuros códigos 
-- 🌱 Começando no Galera Tech (Apeti) em agosto de 2026
+- 🔭 Atualmente aprendendo: JavaScript | Git & GitHub | Node.js | utilização de bibliotecas e frameworks | HTML5 e CSS3 
+- 🌱 Aluno Galera Tech da Apeti (Parque Tecnológico)
 - 💬 Me chame para trocar ideia sobre programação!
 
 # 📂 Meus projetos:
