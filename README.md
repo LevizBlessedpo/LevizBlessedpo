@@ -1,11 +1,10 @@
 <div align="center">
-
+  
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a1a&height=150&section=header)
 
 <img src="https://raw.githubusercontent.com/LevizBlessedpo/LevizBlessedpo/main/tenor.gif" width="800"/>
 
 <br>
-
 <a href="#">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=500&height=60&lines=Levi+Santos;Futuro+Dev+Back-end;Aluno+Galera+Tech" alt="Typing SVG" />
 </a>
