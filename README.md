@@ -15,6 +15,7 @@
 ## 🔥 Salve, me chamo Levi Santos!
 
 Estudante de **Eletrônica**, futuro **desenvolvedor Back-end**, mas de olho numa possível carreira em **DevOps**! Comecei a estudar programação sozinho, pelo celular, e agora tô na **Galera Tech da Apeti** 🚀
+**Tecnologias que utilizo:**
 
 <br>
 
