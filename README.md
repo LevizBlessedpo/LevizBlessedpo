@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a1a&height=150&section=header)
 
-<img src="https://media1.tenor.com/m/QXXXchUhc7wAAAAd/thorfinn-vinland-saga.gif" width="300"/>
+<img src="https://raw.githubusercontent.com/LevizBlessedpo/LevizBlessedpo/main/tenor.gif" width="800"/>
 
 <br>
 
