@@ -2,13 +2,13 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a1a&height=150&section=header)
 
-<a href="#">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=500&height=60&lines=Levi+Santos;Futuro+Dev+Back-end;Aluno+da+Galera+Tech" alt="Typing SVG" />
-</a>
+<img src="https://media1.tenor.com/m/QXXXchUhc7wAAAAd/thorfinn-vinland-saga.gif" width="300"/>
 
 <br>
 
-<img src="https://giffiles.alphacoders.com/224/224573.gif" width="300"/>
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=500&height=60&lines=Levi+Santos;Futuro+Dev+Back-end;Aluno+da+Galera+Tech" alt="Typing SVG" />
+</a>
 
 </div>
 
