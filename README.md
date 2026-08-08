@@ -1,12 +1,13 @@
 <div align="center">
-  
+
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a1a&height=150&section=header)
 
-<img src="https://raw.githubusercontent.com/LevizBlessedpo/LevizBlessedpo/main/tenor.gif" width="800"/>
+<img src="https://raw.githubusercontent.com/LevizBlessedpo/LevizBlessedpo/main/tenor.gif" width="300"/>
 
 <br>
+
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=500&height=60&lines=Levi+Santos;Futuro+Dev+Back-end;Aluno+Galera+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=500&height=60&lines=Levi+Santos;Futuro+Dev+Back-end;Aluno+da+Galera+Tech" alt="Typing SVG" />
 </a>
 
 </div>
@@ -142,7 +143,9 @@ Estudante de **Eletrônica**, futuro **desenvolvedor Back-end**, mas de olho num
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=LevizBlessedpo&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LevizBlessedpo&theme=dark&hide_border=true&background=0d1117" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=LevizBlessedpo&show_icons=true&theme=default&hide_border=true&bg_color=ffffff" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LevizBlessedpo&theme=default&hide_border=true&background=ffffff" width="48%"/>
 
 </div>
+
+<br>
