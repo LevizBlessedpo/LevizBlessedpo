@@ -91,22 +91,18 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-ori
 
 ### 📊 Minhas Estatísticas 
 
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-stats-extended.vercel.app/api?username=LevizBlessedpo&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" 
-/>
+<table align="center">
+<tr>
+<td>
+<img alt="GitHub Stats" width="410px" height="200px" src="https://github-stats-extended.vercel.app/api?username=LevizBlessedpo&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&disable_animations=true" />
+</td>
+<td>
+<img alt="Linguagens/Tecnologias" height="200px" width="410" src="https://github-stats-extended.vercel.app/api/top-langs/?username=LevizBlessedpo&theme=radical&hide_border=true&bg_color=0d1117&layout=compact&custom_title=Linguagens/Tecnologias&langs_count=9" />
+</td>
+</tr>
+</table>
 
-<img 
-  align="left" 
-  alt="GitHub Stats" 
-  height="200" 
-  style="padding-right: 10px;"
-  src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=levizBlessedpo&theme=tokyonight&layout=compact&custom_title=Linguagens/Tecnologias&langs_count=9" 
-  />
-<br clear ="both">
+<br clear="both">
 
 ## 🧭 Minhas áreas de interesse
 
