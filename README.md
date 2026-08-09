@@ -10,12 +10,18 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=500&height=60&lines=Levi+Santos;Futuro+Dev+Back-end;Aluno+da+Galera+Tech" alt="Typing SVG" />
 </a>
 
+<br><br>
+
+<img src="https://img.shields.io/badge/dynamic/json?color=E63946&label=REPOSIT%C3%93RIOS&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FLevizBlessedpo&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/LevizBlessedpo?label=SEGUIDORES&style=for-the-badge&color=1D3557&logo=github&logoColor=white"/>
+<img src="https://komarev.com/ghpvc/?username=LevizBlessedpo&label=VIEWS&style=for-the-badge&color=2A9D8F"/>
+<img src="https://img.shields.io/badge/dynamic/json?color=457B9D&label=SEGUINDO&query=following&url=https%3A%2F%2Fapi.github.com%2Fusers%2FLevizBlessedpo&style=for-the-badge"/>
+
 </div>
 
 ## 🔥 Salve, me chamo Levi Santos!
 
 Estudante de **Eletrônica**, futuro **desenvolvedor Back-end**, mas de olho numa possível carreira em **DevOps**! Comecei a estudar programação sozinho, pelo celular, e agora tô na **Galera Tech da Apeti** 🚀
-**Tecnologias que utilizo:**
 
 <br>
 
@@ -145,8 +151,14 @@ Estudante de **Eletrônica**, futuro **desenvolvedor Back-end**, mas de olho num
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=LevizBlessedpo&show_icons=true&theme=default&hide_border=true&bg_color=ffffff" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LevizBlessedpo&theme=default&hide_border=true&background=ffffff" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LevizBlessedpo&layout=compact&theme=default&hide_border=true&bg_color=ffffff" width="48%"/>
 
 </div>
 
 <br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=LevizBlessedpo&theme=default&hide_border=true&background=ffffff" width="60%"/>
+
+</div>
