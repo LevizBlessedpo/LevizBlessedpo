@@ -1,53 +1,112 @@
-<div align="center">
+<img src="https://raw.githubusercontent.com/LevizBlessedpo/LevizBlessedpo/main/tenor.gif" width="500"/>
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a1a&height=150&section=header)
+# 👨‍💻 Levi Santos
 
-<img src="https://raw.githubusercontent.com/LevizBlessedpo/LevizBlessedpo/main/tenor.gif" width="300"/>
+**`Futuro Dev Back-end`**
 
-<br>
+Me chamo Levi Santos da Cruz, tenho 17 anos e nasci em São José do Rio Preto, nascido e naturalizado no Brasil. Comecei minha carreira na programação a mais ou menos 1 mês e estudo na ETEC Phila fazendo o curso de Eletrônica. Apaixonado por tecnologia e mirando numa possível carreira de DevOps! Aluno do galera Tech desde 03/08 🔥. [Conecte-se comigo no Linkedin!](https://www.linkedin.com/in/levi-santos-da-cruz-9a998533a?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
-<a href="#">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=500&height=60&lines=Levi+Santos;Futuro+Dev+Back-end;Aluno+da+Galera+Tech" alt="Typing SVG" />
+<p align="left">
+  <a href="https://github.com/search?q=author%3ALevizBlessedpo&type=commits">
+    <img 
+        alt="Commits" 
+        title="Meus Commits" 
+        src="https://custom-icon-badges.demolab.com/badge/dynamic/json?color&labelColor=2ea403&style=for-the-badge&logo=github&logoColor=white&label=Commits&query=total_count&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fcommits%3Fq%3Dauthor%3ALevizBlessedpo"
+    />
 </a>
+<a href="https://github.com/pulls?q=is%3Apr+author%3ALevizBlessedpo">
+    <img 
+        alt="Pull Requests" 
+        title="Meus Pull Requests" 
+        src="https://custom-icon-badges.demolab.com/badge/dynamic/json?color=da3633&labelColor=da3633&style=for-the-badge&logo=git-pull-request&logoColor=white&label=Pull%20Requests&query=total_count&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dis%3Apr%2Bauthor%3ALevizBlessedpo"
+    />
+</a>
+  <a href="https://github.com/LevizBlessedpo?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/LevizBlessedpo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
 
-<br><br>
+---
 
-<img src="https://img.shields.io/badge/dynamic/json?color=E63946&label=REPOSIT%C3%93RIOS&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FLevizBlessedpo&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/LevizBlessedpo?label=SEGUIDORES&style=for-the-badge&color=1D3557&logo=github&logoColor=white"/>
-<img src="https://komarev.com/ghpvc/?username=LevizBlessedpo&label=VIEWS&style=for-the-badge&color=2A9D8F"/>
-<img src="https://img.shields.io/badge/dynamic/json?color=457B9D&label=SEGUINDO&query=following&url=https%3A%2F%2Fapi.github.com%2Fusers%2FLevizBlessedpo&style=for-the-badge"/>
+### 🤖 Linguagens e Tecnologias
 
-</div>
+<img 
+  align="left" 
+  alt="HTML"
+  title="HTML" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img  
+  align="left" 
+  alt="CSS"
+  title="CSS" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
 
-## 🔥 Salve, me chamo Levi Santos!
+<img 
+  align="left" 
+  alt="JS"
+  title="JavaScript" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
 
-Estudante de **Eletrônica**, futuro **desenvolvedor Back-end**, mas de olho numa possível carreira em **DevOps**! Comecei a estudar programação sozinho, pelo celular, e agora tô na **Galera Tech da Apeti** 🚀
+<img 
+  align="left" 
+  alt="Node.js"
+  title="Nodejs" 
+  width="30px" 
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
+
+<img 
+  align="left" 
+  alt="GIT"
+  title="GIT" 
+  width="30px" 
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<img align="left" 
+  alt="GitHub"
+  title="GitHub" 
+  width="30px" 
+  style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+/>
 
 <br>
-
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js&logoColor=339933)
-![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3&logoColor=1572B6)
-
-</div>
-
 <br>
 
-## 🚀 Sobre mim
+### 📊 Minhas Estatísticas 
 
-- 🎯 Atualmente aprendendo: **JavaScript** | **Git & GitHub** | **Node.js** | bibliotecas e frameworks | **HTML5** e **CSS3**
-- 🌱 Aluno da **Galera Tech da Apeti** (Parque Tecnológico)
-- 🔌 Curso técnico em **Eletrônica**
-- 🎯 Mirando uma trilha em **DevOps**
-- 💬 Me chame para trocar ideia sobre programação!
-- ⏳ Programando ativamente desde **09/07/2026** *(cerca de 1 mês de jornada até aqui!)*
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-stats-extended.vercel.app/api?username=LevizBlessedpo&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" 
+/>
 
-<br>
+<img 
+  align="left" 
+  alt="GitHub Stats" 
+  height="200" 
+  style="padding-right: 10px;"
+  src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=levizBlessedpo&theme=tokyonight&layout=compact&custom_title=Linguagens/Tecnologias&langs_count=9" 
+  />
+<br clear ="both">
 
 ## 🧭 Minhas áreas de interesse
 
@@ -83,21 +142,6 @@ Estudante de **Eletrônica**, futuro **desenvolvedor Back-end**, mas de olho num
 </td>
 </tr>
 </table>
-
-<br>
-
-## 🧠 Tecnologias e ferramentas
-
-<div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
-
-</div>
 
 <br>
 
@@ -144,21 +188,8 @@ Estudante de **Eletrônica**, futuro **desenvolvedor Back-end**, mas de olho num
 
 </div>
 
-<br>
-
-## 📊 Minha atividade no GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=LevizBlessedpo&show_icons=true&theme=default&hide_border=true&bg_color=ffffff" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LevizBlessedpo&layout=compact&theme=default&hide_border=true&bg_color=ffffff" width="48%"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=LevizBlessedpo&theme=default&hide_border=true&background=ffffff" width="60%"/>
-
-</div>
+<br>        
+          
+          
+          
+          
