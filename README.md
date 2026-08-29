@@ -4,7 +4,7 @@
 
 **`Futuro Dev Back-end`**
 
-Me chamo Levi Santos da Cruz, tenho 17 anos e nasci em São José do Rio Preto, nascido e naturalizado no Brasil. Comecei minha carreira na programação a mais ou menos 1 mês e estudo na ETEC Phila fazendo o curso de Eletrônica. Apaixonado por tecnologia e mirando numa possível carreira de DevOps! Aluno do galera Tech desde 03/08 🔥. [Conecte-se comigo no Linkedin!](https://www.linkedin.com/in/levi-santos-da-cruz-9a998533a?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+Me chamo Levi Santos da Cruz, tenho 17 anos e nasci em São José do Rio Preto, nascido e naturalizado no Brasil. Comecei minha carreira na programação a mais ou menos 1 mês e estudo na ETEC Phila fazendo o curso de Eletrônica. Apaixonado por tecnologia e mirando numa possível carreira de DevOps ou CyberSec! Aluno do galera Tech desde 03/08 🔥. [Conecte-se comigo no Linkedin!](https://www.linkedin.com/in/levi-santos-da-cruz-9a998533a?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 <p align="left">
   <a href="https://github.com/search?q=author%3ALevizBlessedpo&type=commits">
