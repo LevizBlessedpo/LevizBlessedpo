@@ -4,90 +4,97 @@
 
 **`Futuro Dev Back-end`**
 
-Me chamo Levi Santos da Cruz, tenho 17 anos e nasci em São José do Rio Preto e naturalizado no Brasil. Comecei minha carreira na programação a 2 mêses e estudo na ETEC Phila fazendo o curso de Eletrônica. Apaixonado por tecnologia e mirando numa possível carreira de DevOps ou CyberSec! Aluno do galera Tech desde 03/08 🔥. [Conecte-se comigo no Linkedin!](https://www.linkedin.com/in/levi-santos-da-cruz-9a998533a?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+Me chamo **Levi Santos da Cruz**, tenho 17 anos e sou de São José do Rio Preto - SP.
+
+Estou iniciando minha jornada na programação e atualmente estudo na **ETEC Philadelpho Gouvêa Netto**, no curso de Eletrônica.
+
+Sou apaixonado por tecnologia e tenho interesse em construir uma carreira nas áreas de **Back-end, DevOps e CyberSec**.
+
+Atualmente também faço parte do **Galera Tech**. 🔥
+
+Meu objetivo é evoluir constantemente, desenvolver projetos práticos e transformar conhecimento em soluções reais.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecte--se%20comigo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/levi-santos-da-cruz-9a998533a)
 
 <p align="left">
-  <a href="https://github.com/search?q=author%3ALevizBlessedpo&type=commits">
-    <img 
-        alt="Commits" 
-        title="Meus Commits" 
-        src="https://custom-icon-badges.demolab.com/badge/dynamic/json?color&labelColor=2ea403&style=for-the-badge&logo=github&logoColor=white&label=Commits&query=total_count&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fcommits%3Fq%3Dauthor%3ALevizBlessedpo"
-    />
+
+<a href="https://github.com/search?q=author%3ALevizBlessedpo&type=commits">
+<img 
+alt="Commits"
+title="Meus Commits"
+src="https://custom-icon-badges.demolab.com/badge/dynamic/json?color&labelColor=2ea403&style=for-the-badge&logo=github&logoColor=white&label=Commits&query=total_count&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fcommits%3Fq%3Dauthor%3ALevizBlessedpo"
+/>
 </a>
+
 <a href="https://github.com/pulls?q=is%3Apr+author%3ALevizBlessedpo">
-    <img 
-        alt="Pull Requests" 
-        title="Meus Pull Requests" 
-        src="https://custom-icon-badges.demolab.com/badge/dynamic/json?color=da3633&labelColor=da3633&style=for-the-badge&logo=git-pull-request&logoColor=white&label=Pull%20Requests&query=total_count&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dis%3Apr%2Bauthor%3ALevizBlessedpo"
-    />
+<img 
+alt="Pull Requests"
+title="Meus Pull Requests"
+src="https://custom-icon-badges.demolab.com/badge/dynamic/json?color=da3633&labelColor=da3633&style=for-the-badge&logo=git-pull-request&logoColor=white&label=Pull%20Requests&query=total_count&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dis%3Apr%2Bauthor%3ALevizBlessedpo"
+/>
 </a>
-  <a href="https://github.com/LevizBlessedpo?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/LevizBlessedpo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+
+<img 
+alt="Seguidores"
+title="Seguidores no GitHub"
+src="https://img.shields.io/badge/Seguidores-32-236ad3?style=for-the-badge&logo=github&logoColor=white"
+/>
+
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🤖 Tecnologias e Ferramentas
 
-<img 
-  align="left" 
-  alt="HTML"
-  title="HTML" 
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img  
-  align="left" 
-  alt="CSS"
-  title="CSS" 
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
+### 💻 Linguagens
 
-<img 
-  align="left" 
-  alt="JS"
-  title="JavaScript" 
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+<p align="left">
 
-<img 
-  align="left" 
-  alt="Node.js"
-  title="Nodejs" 
-  width="30px" 
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
-/>
+<img alt="JavaScript" title="JavaScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 
-<img 
-  align="left" 
-  alt="GIT"
-  title="GIT" 
-  width="30px" 
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+<img alt="Lua" title="Lua" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg"/>
 
-<img align="left" 
-  alt="GitHub"
-  title="GitHub" 
-  width="30px" 
-  style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
-/>
+</p>
 
-<br>
-<br>
+### 🎨 Front-end
+
+<p align="left">
+
+<img alt="HTML5" title="HTML5" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+
+<img alt="CSS3" title="CSS3" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+
+<img alt="React" title="React" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+
+<img alt="Next.js" title="Next.js" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
+
+<img alt="Tailwind CSS" title="Tailwind CSS" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
+
+</p>
+
+### ⚙️ Back-end
+
+<p align="left">
+
+<img alt="Node.js" title="Node.js" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+
+</p>
+
+### 🔧 Ferramentas
+
+<p align="left">
+
+<img alt="Arduino" title="Arduino" width="90" src="https://camo.githubusercontent.com/9df869bceb1d12cf1c232ad6c2a9e5194e706a680d380c103152ce5d2db5ea4e/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d61726475696e6f2c637070"/>
+
+<img alt="VS Code" title="VS Code" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+
+<img alt="Git" title="Git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+
+<img alt="GitHub" title="GitHub" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+
+</p>
+
+---
 
 ### 📊 Minhas Estatísticas 
 
@@ -104,87 +111,93 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-ori
 
 <br clear="both">
 
-## 🧭 Minhas áreas de interesse
+---
 
-<table align="center">
-<tr>
-<td align="center" width="200">
+## 🧭 Áreas de Interesse
 
-💻<br>
-**Back-end**<br>
-<sub>Node.js, lógica de servidor e construção de APIs.</sub>
+<p align="center">
 
-</td>
-<td align="center" width="200">
+💻 **Back-end**  
+Node.js, APIs, lógica de servidor e desenvolvimento de aplicações.
 
-⚙️<br>
-**DevOps**<br>
-<sub>Automação, pipelines e infraestrutura.</sub>
+⚙️ **DevOps**  
+Automação, CI/CD, infraestrutura e integração entre desenvolvimento e operações.
 
-</td>
-<td align="center" width="200">
+🔐 **CyberSec**  
+Segurança da informação, sistemas e proteção de aplicações.
 
-🔌<br>
-**Eletrônica**<br>
-<sub>Base técnica do curso, circuitos e sistemas.</sub>
+🔌 **Eletrônica**  
+Circuitos, sistemas embarcados e integração entre hardware e software.
 
-</td>
-<td align="center" width="200">
+🌐 **Web Development**  
+HTML, CSS, JavaScript e desenvolvimento de aplicações web.
 
-🌐<br>
-**Web Dev**<br>
-<sub>HTML5, CSS3 e fundamentos de front-end.</sub>
+</p>
 
-</td>
-</tr>
-</table>
+---
 
-<br>
+## 📚 Atualmente Estudando
 
-## 📚 Atualmente estudando
+<p align="center">
 
-<table align="center">
-<tr>
-<td align="center" width="230">
+🟨 **JavaScript**
 
-🟨<br>
-**JavaScript**<br>
-<sub>Lógica, manipulação do DOM e fundamentos da linguagem.</sub>
+Lógica, DOM, programação assíncrona, APIs e fundamentos da linguagem.
 
-</td>
-<td align="center" width="230">
+🟢 **Node.js**
 
-🟢<br>
-**Node.js**<br>
-<sub>Back-end, módulos e bibliotecas/frameworks.</sub>
+Back-end, módulos, HTTP, APIs e desenvolvimento de servidores.
 
-</td>
-<td align="center" width="230">
+🔧 **Git & GitHub**
 
-🔧<br>
-**Git & GitHub**<br>
-<sub>Controle de versão e fluxo de trabalho colaborativo.</sub>
+Controle de versão, branches, commits e colaboração.
 
-</td>
-</tr>
-</table>
+⚛️ **React**
 
-<br>
+Componentes, estado, propriedades e desenvolvimento de interfaces.
 
-## 🌐 Minhas redes sociais
+▲ **Next.js**
 
-<div align="center">
+Aplicações web modernas e integração entre front-end e back-end.
 
-<a href="https://www.linkedin.com/in/levi-santos-da-cruz-9a998533a" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50"/>
-</a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/levizineletro" target="_blank">
-  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" width="50" height="50"/>
+🎨 **Tailwind CSS**
+
+Construção de interfaces modernas e responsivas.
+
+</p>
+
+---
+
+## 🚀 Objetivos
+
+- Evoluir constantemente como desenvolvedor.
+- Aprofundar meus conhecimentos em JavaScript e Back-end.
+- Unir programação e eletrônica em projetos práticos.
+- Explorar DevOps, automação e infraestrutura.
+- Aprender mais sobre CyberSec.
+- Construir projetos reais para meu portfólio.
+- Participar de projetos colaborativos e Hackathons.
+
+---
+
+## 🌐 Minhas Redes Sociais
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/levi-santos-da-cruz-9a998533a">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" alt="LinkedIn"/>
 </a>
 
-</div>
+<a href="https://www.instagram.com/levizineletro">
+<img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" width="50" alt="Instagram"/>
+</a>
 
-<br>        
-          
-          
-          
+</p>
+
+---
+
+<p align="center">
+
+### 💡 Transformando curiosidade em código.
+
+</p>
