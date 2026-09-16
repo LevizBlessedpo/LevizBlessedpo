@@ -98,7 +98,18 @@ src="https://img.shields.io/badge/Seguidores-32-236ad3?style=for-the-badge&logo=
 
 ### 📊 Minhas Estatísticas 
 
+<table align="center">
+<tr>
+<td>
+<img alt="GitHub Stats" width="410px" height="200px" src="https://github-stats-extended.vercel.app/api?username=LevizBlessedpo&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&disable_animations=true" />
+</td>
+<td>
+<img alt="Linguagens/Tecnologias" height="200px" width="410" src="https://github-stats-extended.vercel.app/api/top-langs/?username=LevizBlessedpo&theme=radical&hide_border=true&bg_color=0d1117&layout=compact&custom_title=Linguagens/Tecnologias&langs_count=9" />
+</td>
+</tr>
+</table>
 
+<br clear="both">
 
 ---
 
