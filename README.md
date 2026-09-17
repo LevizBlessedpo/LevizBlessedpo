@@ -52,7 +52,7 @@ src="https://img.shields.io/badge/Seguidores-32-236ad3?style=for-the-badge&logo=
 
 <img alt="JavaScript" title="JavaScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 
-<img alt="Lua" title="Lua" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg"/>
+<img alt="typescript" title="typescript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
 
 </p>
 
@@ -117,19 +117,19 @@ src="https://img.shields.io/badge/Seguidores-32-236ad3?style=for-the-badge&logo=
 
 <p align="center">
 
-💻 **Back-end**  
+**Back-end**  
 Node.js, APIs, lógica de servidor e desenvolvimento de aplicações.
 
-⚙️ **DevOps**  
+**DevOps**  
 Automação, CI/CD, infraestrutura e integração entre desenvolvimento e operações.
 
-🔐 **CyberSec**  
+**CyberSec**  
 Segurança da informação, sistemas e proteção de aplicações.
 
-🔌 **Eletrônica**  
+**Eletrônica**  
 Circuitos, sistemas embarcados e integração entre hardware e software.
 
-🌐 **Web Development**  
+**Web Development**  
 HTML, CSS, JavaScript e desenvolvimento de aplicações web.
 
 </p>
