@@ -18,13 +18,12 @@ Estudante de Eletrônica na **ETEC Philadelpho Gouvêa Netto** e aluno do **Gale
 
 ---
 
-### 🛠️ Tech Stack & Ferramentas
+### 🛠️ Tecnologias e Ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,react,next,tailwind,vscode,git,github,cpp,arduino" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,cpp,arduino,vscode,git,github" />
 </p>
 
----
 
 ### 📊 Estatísticas
 
