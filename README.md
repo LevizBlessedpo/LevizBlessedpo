@@ -1,4 +1,4 @@
-<!-- Banner do Topo com Gradiente Vermelho e Azul -->
+    <!-- Banner do Topo com Gradiente Vermelho e Azul -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,ff0000,0000ff&height=200&section=header&text=Levi%20Santos&fontSize=52&fontColor=ffffff&animation=twinkling" width="100%"/>
 
 <!-- Texto Animado Digitando -->
@@ -21,9 +21,10 @@ Estudante de Eletrônica na **ETEC Philadelpho Gouvêa Netto** e aluno do **Gale
 ### 🛠️ Tecnologias e Ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,cpp,arduino,vscode,git,github" />
+  <img src="https://skillicons.dev/icons?i=js,ts,php,html,css,cpp,arduino,vscode,git,github" />
 </p>
 
+---
 
 ### 📊 Estatísticas
 
