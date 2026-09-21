@@ -9,7 +9,7 @@
 ---
 
 
-**`Futuro Dev Back-end`** | 17 anos | São José do Rio Preto - SP
+**`Futuro Web-dev`** | 17 anos | São José do Rio Preto - SP
 
 Estudante de Eletrônica na **ETEC Philadelpho Gouvêa Netto** e aluno do **Galera Tech**. Focado em **Front-end, DevOps e CyberSec**.
 
