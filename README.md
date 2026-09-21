@@ -3,13 +3,13 @@
 
 <!-- Texto Animado Digitando -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=EF4444&center=true&vCenter=true&width=500&lines=Futuro+Dev+Front-end;Estudante+de+Eletr%C3%B4nica+na+ETEC;Focado+em+Node.js+%26+TypeScript" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=EF4444&center=true&vCenter=true&width=500&lines=Futuro+Web+Dev;Estudante+de+Eletr%C3%B4nica+na+ETEC;Focado+em+Node.js+%26+TypeScript" alt="Typing SVG" />
 </p>
 
 ---
 
 
-**`Futuro Web-dev`** | 17 anos | São José do Rio Preto - SP
+**`Futuro Web Dev`** | 17 anos | São José do Rio Preto - SP
 
 Estudante de Eletrônica na **ETEC Philadelpho Gouvêa Netto** e aluno do **Galera Tech**. Focado em **Front-end, DevOps e CyberSec**.
 
