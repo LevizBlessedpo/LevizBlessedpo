@@ -1,4 +1,4 @@
- <!-- Banner do Topo com Gradiente Vermelho e Azul -->
+<!-- Banner do Topo com Gradiente Vermelho e Azul -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,ff0000,0000ff&height=200&section=header&text=Levi%20Santos&fontSize=52&fontColor=ffffff&animation=twinkling" width="100%"/>
 
 <!-- Texto Animado Digitando -->
@@ -7,7 +7,6 @@
 </p>
 
 ---
-
 
 **`Futuro Web Dev`** | 17 anos | São José do Rio Preto - SP
 
@@ -26,14 +25,22 @@ Estudante de Eletrônica na **ETEC Philadelpho Gouvêa Netto** e aluno do **Gale
 
 ---
 
+### 👾 Jogo da Cobrinha
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
+  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
+  <img alt="GitHub Insertion Snake" src="https://githubusercontent.com">
+</picture>
+
+---
+
 ### 📊 Estatísticas
 
 <p align="left">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=LevizBlessedpo&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" />
 
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LevizBlessedpo&theme=dark&hide_border=true&bg_color=0d1117&layout=compact&hide=hack,html,css&count_private=true" />
-
-
 </p>
 
 ---
