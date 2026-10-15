@@ -33,6 +33,7 @@ Estudante de Eletrônica na **ETEC Philadelpho Gouvêa Netto** e aluno do **Gale
   <img alt="GitHub Insertion Snake" src="https://githubusercontent.com">
 </picture>
 
+
 ---
 
 ### 📊 Estatísticas
