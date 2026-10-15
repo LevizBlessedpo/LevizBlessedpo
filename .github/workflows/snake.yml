@@ -1,17 +1,22 @@
 name: Generate Snake
 
 on:
-  # Executa automaticamente a cada 24 horas
   schedule:
     - cron: "0 0 * * *"
-  
-  # Permite rodar manualmente a qualquer momento
   workflow_dispatch:
+
+# Garante que o script tem permissão total de escrita para criar o branch e os arquivos
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      # Garante o checkout usando a versão mais recente e estável
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
       - name: Generate Snake Files
         uses: Platane/snk@v3
         with:
@@ -23,9 +28,10 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push Snake Files to Output Branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
+          commit_message: "Update snake animations"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
