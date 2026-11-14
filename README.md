@@ -13,7 +13,7 @@
 Estudante de Eletrônica na **ETEC Philadelpho Gouvêa Netto** e aluno do **Galera Tech**. Focado em **Front-end, DevOps e CyberSec**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/levi-santos-da-cruz-9a998533a)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/levizineletro)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/Levi.santos_dc)
 
 ---
 
