@@ -25,12 +25,20 @@ Estudante de Eletrônica na **ETEC Philadelpho Gouvêa Netto** e aluno do **Gale
 
 ---
 
-### 👾 Jogo da Cobrinha
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
-  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
-  <img alt="GitHub Insertion Snake" src="https://githubusercontent.com">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/LevizBlessedpo/LevizBlessedpo/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/LevizBlessedpo/LevizBlessedpo/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/LevizBlessedpo/LevizBlessedpo/output/github-contribution-grid-snake.svg"
+    width="100%"
+  />
 </picture>
 
 
