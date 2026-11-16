@@ -38,11 +38,12 @@ Estudante de Eletrônica na **ETEC Philadelpho Gouvêa Netto** e aluno do **Gale
 
 ### 📊 Estatísticas
 
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=LevizBlessedpo&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" />
+<p align="center">
+  <img height="160" src="https://github-stats-extended.vercel.app/api?username=LevizBlessedpo&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" />
 
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LevizBlessedpo&theme=dark&hide_border=true&bg_color=0d1117&layout=compact&hide=hack,html,css&count_private=true" />
+  <img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=LevizBlessedpo&theme=dark&hide_border=true&bg_color=0d1117&layout=compact&hide=hack,html,css&count_private=true" />
 </p>
+
 
 ---
 
